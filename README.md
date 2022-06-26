@@ -5,5 +5,6 @@ The purpose of the Election Audit was to automate the vote counting process.  Th
 
 ## Election Audit Results
 ### Total Votes
-After running the Election Analysis program, it was reported that a total of 369,711 votes were cast in the associated election
+After running the Election Analysis program, it was reported that a total of 369,711 votes were cast in the associated election.
+
 
